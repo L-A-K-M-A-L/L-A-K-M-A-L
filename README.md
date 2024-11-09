@@ -1,12 +1,12 @@
-##👋 Hi, I’m Lakmal!
+####👋 Hi, I’m Lakmal!
 <hr/>
-# Undergraduate | South Eastern University, Sri Lanka
-# Specialization: Software Engineering
+##Undergraduate | South Eastern University, Sri Lanka
+##Specialization: Software Engineering
 
-#🌱 About Me
+##🌱 About Me
 I am a passionate Software Engineering undergraduate at South Eastern University, Sri Lanka, where I’m developing my skills in designing, developing, and optimizing applications. With a commitment to continuous learning, I enjoy transforming complex problems into intuitive, impactful solutions that enhance user experience.
 
-#🚀 Philosophy
+##🚀 Philosophy
 “The journey of a thousand miles begins with a single step.” – Lao Tzu
 
 I believe each project is an opportunity to create meaningful change, one line of code at a time.
